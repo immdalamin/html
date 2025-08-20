@@ -15,3 +15,9 @@ This website offers you online partners. You have to enter your name and gender,
 This website doesn't save your data. All the data is erased when you leave the chat.
 
 The website is live [here](https://otpartner.w3spaces.com/) !
+
+##  Tic Tac Toe
+
+This website offers you a *Tic Tac Toe* game to play in your browser.
+
+The website is live [here](https://tictactoe-0.w3spaces.com/) !
